@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning **Machine learning, data science and AI engineering in python**
 
+- 📚 I'm a computer science student at Silesian University of Technology in Gliwice, Poland
+
 - 📫 How to reach me **marcinwisniewski707@gmail.com**
 
-- ⚡ Fun fact **I'm a chess entusiast**
+- ⚡ Fun fact **I'm a chess entusiast playing in a local chess club**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
