@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **marcinwisniewski707@gmail.com**
 
-- ⚡ Fun fact **I'm a chess entusiast playing in a local chess club**
+- ⚡ Fun fact **I'm a chess entusiast playing in a local chess club**. [FIDE](https://ratings.fide.com/profile/41828259)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
