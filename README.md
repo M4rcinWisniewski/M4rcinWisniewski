@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Opencv face detector](https://github.com/M4rcinWisniewski/Face_detector.git)
 
-- 🌱 I’m currently learning **Fullstack development**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 📚 I'm a computer science student at Silesian University of Technology in Gliwice, Poland
 
