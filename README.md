@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m4rcinwisniewski&label=Profile%20views&color=0e75b6&style=flat" alt="m4rcinwisniewski" /> </p>
 
-- 🔭 I’m currently working on [Opencv face detector](https://github.com/M4rcinWisniewski/Face_detector.git)
+- 🔭 I’m currently working on football-api application
 
 - 🌱 I’m currently learning **Software Engineering**
 
