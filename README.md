@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m4rcinwisniewski&label=Profile%20views&color=0e75b6&style=flat" alt="m4rcinwisniewski" /> </p>
 
-- 🔭 I’m currently working on [chess analysis engine in typescript](https://github.com/M4rcinWisniewski/chess-analysis)
+- 🔭 I’m currently working on [Chessgame analysis with Typescript and FastAPI](https://github.com/M4rcinWisniewski/chessgame-review.git)
 
 - 🌱 I’m currently learning **Software Engineering**
 
