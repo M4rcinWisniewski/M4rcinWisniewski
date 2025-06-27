@@ -1,26 +1,65 @@
-<h1 align="center">Hello 👋, I'm Marcin Wiśniewski</h1>
-<h3 align="center">Computer science student and chess player</h3>
+# 👋 Hi, I'm Marcin!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m4rcinwisniewski&label=Profile%20views&color=0e75b6&style=flat" alt="m4rcinwisniewski" /> </p>
+🎓 1st-year Computer Science student at Silesian University of Technology  
+🦀 Rust + C++ enthusiast | 🎮 Aspiring Game Developer | 🔍 Systems & Engine Design
 
-- 🔭 I’m currently working on **Rust chess engine** 🦀
+---
 
-- 🌱 I’m currently learning **Software Engineering**
+## 🚧 Currently Building
 
-- 📚 I'm a computer science student at Silesian University of Technology in Gliwice, Poland
+- ♟️ **Rust Chess Engine** — full engine in progress with bitboard logic, clean modular design, and future evaluation & search
 
-- 📫 How to reach me **marcinwisniewski707@gmail.com**
+---
 
-- ⚡ Fun fact **I'm a chess entusiast playing in a local chess club**. [FIDE](https://ratings.fide.com/profile/41828259)
+## 🎯 Goals for 2025
 
+- ✅ Finish 1st year of Computer Science
+- 🔨 Finish the full Rust chess engine (with game logic, evaluation, and UCI)
+- 🧪 Keep learning C++ through hands-on game dev & system design
+- 🚀 Make the roguelike game playable and fun
 
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__wisniewskyy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marcin-wi%C5%9Bniewski12/) 
+---
 
-# 💻Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 💡 What I Enjoy
+
+- Writing fast, clean, and expressive low-level code  
+- Designing systems from scratch (game loops, engines, rule logic)  
+- Learning through building and shipping  
+- Exploring how games, engines, and simulations work under the hood
+
+---
+
+## 🧰 Tools & Languages
+
+![Rust](https://img.shields.io/badge/-Rust-000?style=flat&logo=rust)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcinWisniewski&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 [![](https://visitcount.itsvg.in/api?id=M4rcinWisniewski&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## 📫 Let's Connect
+
+I'm open to:
+- Chatting about game dev, chess AI, or low-level programming
+- Collaborating on hobby projects
+- Any internship opportunities in systems or game dev
+
+> 📧 marcinwisniewski707@gmail.com   
+> 🔗 https://www.linkedin.com/in/marcin-wi%C5%9Bniewski12/
+
+---
+
+🧠 _“The only way to learn a new programming language is by writing programs in it.”_ — Dennis Ritchie
+
+
