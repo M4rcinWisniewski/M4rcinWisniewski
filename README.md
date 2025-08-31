@@ -15,7 +15,7 @@
 
 - ✅ Finish 1st year of Computer Science
 - 🔨 Finish the full Rust chess engine (with game logic, evaluation, and UCI)
-- 🧪 Keep learning C++ through hands-on game dev & system design
+- 🧪 Keep learning C++ & Rust through hands-on game dev & system design
 
 ---
 
