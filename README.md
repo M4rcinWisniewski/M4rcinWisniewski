@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Marcin!
 
 🎓 1st-year Computer Science student at Silesian University of Technology  
-🦀 Rust & C++ enthusiast | 🎮 Aspiring Software Engineer | 🔍 Systems & Engine Design
+🦀 Rust & C++ enthusiast | 💻 Aspiring Software Engineer | 🔍 Systems & Engine Design
 
 ---
 
