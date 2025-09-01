@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Marcin!
 
 🎓 1st-year Computer Science student at Silesian University of Technology  
-🦀 Rust & C++ enthusiast | 🎮 Aspiring Game Developer | 🔍 Systems & Engine Design
+🦀 Rust & C++ enthusiast | 🎮 Aspiring Software Engineer | 🔍 Systems & Engine Design
 
 ---
 
@@ -15,7 +15,7 @@
 
 - ✅ Finish 1st year of Computer Science
 - 🔨 Finish the full Rust chess engine (with game logic, evaluation, and UCI)
-- 🧪 Keep learning C++ & Rust through hands-on game dev & system design
+- 🧪 Keep learning C++ & Rust through hands-on game dev, system design & embedded
 
 ---
 
@@ -23,7 +23,7 @@
 
 - Writing fast, clean, and expressive low-level code  
 - Designing systems from scratch (game loops, engines, rule logic)  
-- Learning through building and shipping  
+- Learning through building
 - Exploring how games, engines, and simulations work under the hood
 
 ---
@@ -56,9 +56,5 @@ I'm open to:
 
 > 📧 marcinwisniewski707@gmail.com   
 > 🔗 https://www.linkedin.com/in/marcin-wi%C5%9Bniewski12/
-
----
-
-🧠 _“The only way to learn a new programming language is by writing programs in it.”_ — Dennis Ritchie
 
 
