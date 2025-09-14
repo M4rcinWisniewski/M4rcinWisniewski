@@ -7,14 +7,14 @@
 
 ## 🚧 Currently Building
 
-- ♟️ **Rust Chess Engine** — full engine in progress with bitboard logic, clean modular design, and future evaluation & search
+- 🤖 **Neural network in c++**
 
 ---
 
 ## 🎯 Goals for 2025
 
 - ✅ Finish 1st year of Computer Science
-- 🔨 Finish the full Rust chess engine (with game logic, evaluation, and UCI)
+- ✅  Finish the Rust chess engine
 - 🧪 Keep learning C++ & Rust through hands-on game dev, system design & embedded
 
 ---
