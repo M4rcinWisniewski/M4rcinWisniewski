@@ -19,15 +19,6 @@
 
 ---
 
-## 💡 What I Enjoy
-
-- Writing fast, clean, and expressive low-level code  
-- Designing systems from scratch (game loops, engines, rule logic)  
-- Learning through building
-- Exploring how games, engines, and simulations work under the hood
-
----
-
 ## 🧰 Tools & Languages
 
 ![Rust](https://img.shields.io/badge/-Rust-000?style=flat&logo=rust)
