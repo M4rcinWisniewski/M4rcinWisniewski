@@ -7,7 +7,7 @@
 
 ## 🚧 Currently Building
 
-- 🤖 **Neural network in c++**
+- 🤖 **QR Generator in C++**
 
 ---
 
