@@ -1,12 +1,12 @@
 # Marcin Wiśniewski
 
-### 🎓 2nd Year Computer Science Student
+### 🎓 3rd Year Computer Science Student
 Focusing on systems programming, embedded and software engineering.
 
 ---
-**I’m currently working on:** Prefix trie data structure
+**I’m currently working on:** POSIX Shell in C
 
-**I’m currently learning:** Memory management, Algorithms, and Embedded Systems
+**I’m currently learning:** Memory management, Algorithms, System programming and Embedded Linux
 
 **Languages & Tools:**
 
