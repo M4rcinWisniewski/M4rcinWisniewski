@@ -4,7 +4,7 @@
 Focusing on systems programming, embedded and software engineering.
 
 ---
-**I’m currently working on:** POSIX Shell in C
+**I’m currently working on:** UNIX Shell in C
 
 **I’m currently learning:** Memory management, Algorithms, System programming and Embedded Linux
 
