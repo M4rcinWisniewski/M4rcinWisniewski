@@ -39,4 +39,12 @@ Focusing on systems programming, embedded and software engineering.
 **⌨️ [mini-Unix Shell](https://github.com/M4rcinWisniewski/minimal_unix_shell)** — A minimal Unix shell implementation in C, supporting core shell functionality.
 
 `C`
-<img width="720" height="720" alt="paul_morphy_puzzle" src="./paul_morphy_puzzle.gif.gif" />
+
+<p align="center">
+  <img width="400" alt="Paul Morphy's Mate in 2" src="./paul_morphy_puzzle.gif.gif" />
+</p>
+
+<p align="center">
+  <i><b>♟️ Paul Morphy's Famous "Zugzwang" Puzzle</b><br>
+  White to move and mate in 2. Can you find the genius block? You've got a few seconds!</i>
+</p>
