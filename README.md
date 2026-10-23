@@ -39,4 +39,4 @@ Focusing on systems programming, embedded and software engineering.
 **⌨️ [mini-Unix Shell](https://github.com/M4rcinWisniewski/minimal_unix_shell)** — A minimal Unix shell implementation in C, supporting core shell functionality.
 
 `C`
-<img width="720" height="720" alt="paul_morphy_puzzle" src="./paul_morphy_puzzle.gif" />
+<img width="720" height="720" alt="paul_morphy_puzzle" src="./paul_morphy_puzzle.gif.gif" />
